@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UserCards/static/css/main.db62923b.css",
+    "main.js": "/UserCards/static/js/main.6ba5d756.js",
+    "index.html": "/UserCards/index.html",
+    "main.db62923b.css.map": "/UserCards/static/css/main.db62923b.css.map",
+    "main.6ba5d756.js.map": "/UserCards/static/js/main.6ba5d756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.6ba5d756.js"
+  ]
+}
